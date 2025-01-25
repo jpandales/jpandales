@@ -12,8 +12,8 @@ Originally looking to pursue AI, my focus was shifted to the dangers of the cybe
 
 | Skill                                         | Associated Project/Experience/Certification         |
 |-----------------------------------------------|----------------------------|
-| Malware analysis and Stealth techniques                                        | <a href="https://google.com">Keylogger</a>|
-| Programming and Scripting (Python,C,C++)                                             | <a href="https://google.com">Keylogger</a>|
+| Malware analysis and Stealth techniques                                        | <a href="https://github.com/jpandales/Keylogger">Keylogger</a>|
+| Programming and Scripting (Python,C,C++)                                             | <a href="https://github.com/jpandales/Keylogger">Keylogger</a>|
 | Linux Command Prompt                                          | TryHackMe Pre Security|
 | Networking Fundamentals                                          | TryHackMe Pre Security|
 
