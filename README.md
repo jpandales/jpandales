@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/john-paul-andales-031816293"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a current Sophomore at the University of Delaware with a strong passion for anything tech related, specifically security.
+I am a current Junior at the University of Delaware with a strong passion for anything tech related, specifically security.
 
 ## Objective
 
